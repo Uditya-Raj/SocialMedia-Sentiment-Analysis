@@ -1,0 +1,13 @@
+﻿numpy
+pandas
+matplotlib
+seaborn
+plotly
+nltk
+scikit-learn
+wordcloud
+matplotlib-venn
+streamlit
+Pillow
+gensim
+vaderSentiment
